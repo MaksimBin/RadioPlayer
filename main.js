@@ -85,7 +85,7 @@ document.getElementById('button').innerHTML = `<button style="width:100px;
 const modal = () => {
 
   document.getElementById('div').innerHTML = playLists.map((x, index) => `<div onclick="playModal('${x}', '${index}')" style=" box-shadow: 0px 0px 15px 5px black;margin-top:8px;display: flex; justify-content:  space-between;background-color:white;border:solid black 1px;margin-left:5px;margin-right:10px;border-radius:27px;align-items: center;">
-    <img src='/pngwing.com (2).png' alt="" width="50px" height="50px" style="border-radius:50%;">
+    <img src='inyan.png' alt="" width="50px" height="50px" style="border-radius:50%;">
     <button type"button"  style="color:black;font-size:14px;border-style:none;background-color:white;font-weight: bold;width:250px;">${x}</button>
     <div style="background-color:black;color:white;border-radius:50%;width:50px;height:50px;"><div style="margin-top:15px;">${index + 1}</div></div>
   </div>`)
