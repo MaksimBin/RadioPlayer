@@ -29,8 +29,8 @@ const images = [
 "An5.jpg",
 "An6.jpg",
 "An7.jpg",
-"An8.webp",
-"/IMG_20240102_230859.jpg"
+"An2.jpg",
+"An1.jpg"
    ]
 
 const randomTexts = [
