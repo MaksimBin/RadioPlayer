@@ -1,12 +1,12 @@
 const playLists = [
-  "/audio/T1.mp3",
-  "/audio/T2.mp3",
-  "/audio/T3.mp3",
-  "/audio/T4.mp3",
-  "/audio/T5.mp3",
-  "/audio/T6.mp3",
-  "/audio/T7.mp3",
-  "/audio/T8.mp3",
+  "T1.mp3",
+  "T2.mp3",
+  "T3.mp3",
+  "T4.mp3",
+  "T5.mp3",
+  "T6.mp3",
+  "T7.mp3",
+  "T8.mp3",
   ]
 
 const colors = [
