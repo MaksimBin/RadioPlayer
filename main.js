@@ -102,7 +102,7 @@ const closeModal = () => {
 
 const imgStart = () => {
  
-   let imgTr = "/bc5743245f004c7ea45cd8a71991c661.gif"
+   let imgTr = "gifgif.gif"
 
   document.getElementById('styleBlock').style = `background-image: url(${imgTr});
   background-repeat: no-repeat;
