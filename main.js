@@ -1,3 +1,8 @@
+window.onload = () => {
+   document.querySelector('.preloader').style = "display:none;"
+  }
+
+
 const playLists = [
   "T1.mp3",
   "T2.mp3",
