@@ -22,14 +22,14 @@ const colors = [
     ]
 
 const images = [
-"/foto/An1.jpg",
-"/foto/An2.jpg",
-"/foto/An3.jpg",
-"/foto/An4.jpg",
-"/foto/An5.jpg",
-"/foto/An6.jpg",
-"/foto/An7.jpg",
-"/foto/An8.webp",
+"An1.jpg",
+"An2.jpg",
+"An3.jpg",
+"An4.jpg",
+"An5.jpg",
+"An6.jpg",
+"An7.jpg",
+"An8.webp",
 "/IMG_20240102_230859.jpg"
    ]
 
