@@ -10,15 +10,15 @@ const playLists = [
   ]
 
 const colors = [
-        "/20210427192214_bd38e4.jpg",
-        "/image/mari3.png",
-        "/image/mari-gif.gif",
-        "/image/mari5.png",
-        "/image/mari6.png",
-        "/image/mari2.jpg",
-        "/image/mari-gif1.gif",
-        "/image/mari2.jpg",
-    //    "/image/mari3.png",
+        "mari2.jpg",
+        "mari3.png",
+        "gifgif.gif",
+        "mari5.png",
+        "mari6.png",
+        "mari2.jpg",
+        "gifgif.gif",
+        "mari2.jpg",
+    //    "mari3.png",
     ]
 
 const images = [
