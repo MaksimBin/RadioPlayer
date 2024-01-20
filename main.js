@@ -4,14 +4,14 @@ window.onload = () => {
 
 
 const playLists = [
-  "T1.mp3",
-  "T2.mp3",
-  "T3.mp3",
-  "T4.mp3",
-  "T5.mp3",
-  "T6.mp3",
-  "T7.mp3",
-  "T8.mp3",
+  "U1.mp3",
+  "U2.mp3",
+  "U3.mp3",
+  "U4.mp3",
+  "U5.mp3",
+  "U6.mp3",
+  "U7.mp3",
+  "U8.mp3",
   ]
 
 const colors = [
