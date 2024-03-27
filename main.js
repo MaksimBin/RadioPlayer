@@ -2,7 +2,7 @@
 
 
 const playLists = [
-  "U1.mp3",
+  "Ket1.mp3",
   "U2.mp3",
   "U3.mp3",
   "U4.mp3",
@@ -25,7 +25,7 @@ const colors = [
     ]
 
 const images = [
-"An1.jpg",
+"Ket.jpg",
 "An2.jpg",
 "An3.jpg",
 "An4.jpg",
